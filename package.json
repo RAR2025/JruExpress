@@ -1,0 +1,23 @@
+{
+  "name": "jru-express",
+  "version": "1.0.1",
+  "description": "My basic Express backend generator",
+  "main": "index.js",
+  "bin": {
+    "jru-express": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"No tests yet\""
+  },
+  "keywords": [
+    "express",
+    "backend",
+    "generator",
+    "scaffold"
+  ],
+  "author": "The Great RAR",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^14.0.0"
+  }
+}

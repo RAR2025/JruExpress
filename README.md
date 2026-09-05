@@ -247,4 +247,4 @@ JruExpress is at the beginning of its development. It aims to make starting an E
 
 ---
 
-Made with ❤️ by Ruturaj
+Made with ❤️ by Jraturu

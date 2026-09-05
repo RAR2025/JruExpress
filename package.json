@@ -17,6 +17,10 @@
   ],
   "author": "The Great RAR",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RAR2025/JruExpress"
+  },
   "dependencies": {
     "commander": "^14.0.0"
   }
